@@ -1,7 +1,7 @@
 module.exports = function(num) {
 const UNITS = ['B', 'kB', 'MB', 'GB', 'TB', 'PB', 'EB', 'ZB', 'YB'];
 	if (!Number.isFinite(num)) {
-		throw new TypeError(`Expected a finite number, got ${typeof num}: ${num}`);
+        throw new TypeError('Expected a finite number, got '+typeof num+': '+num);
 	}
 
 	const neg = num < 0;
