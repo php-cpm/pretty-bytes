@@ -1,6 +1,6 @@
 # pretty-bytes [![Build Status](https://travis-ci.org/sindresorhus/pretty-bytes.svg?branch=master)](https://travis-ci.org/sindresorhus/pretty-bytes)
 
-> Convert bytes to a human readable string: `1337` → `1.34 kB`
+> Convert bytes to a human readable string: `1337` → `1.30 kB` not `1.34 kB`
 
 Useful for displaying file sizes for humans.
 
