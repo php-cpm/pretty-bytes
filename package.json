@@ -1,6 +1,6 @@
 {
   "name": "pretty-kibibytes",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "Convert bytes to a human readable string: 1337 → 1.30 kB",
   "license": "MIT",
   "repository": "php-cpm/pretty-bytes",
